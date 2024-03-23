@@ -4,4 +4,8 @@ Resolução dos problemas propostos na OAT 1 da matéria de Inteligência Artifi
 
 ### Problema 1
 
-!(imgs/Captura de tela 2024-03-23 133302.png)
+![](/OAT_1/imgs/Captura%20de%20tela%202024-03-23%20133302.png)
+
+### Problema 2
+
+![](/OAT_1/imgs/Captura%20de%20tela%202024-03-23%20133312.png)
