@@ -4,8 +4,8 @@ Resolução dos problemas propostos na OAT 1 da matéria de Inteligência Artifi
 
 ### Problema 1
 
-![Problema 1](/OAT_1/imgs/Captura%20de%20tela%202024-03-23%20133302.png)
+![Problema 1](https://github.com/IanAlexandrino/ia_oat_1/blob/main/imgs/Captura%20de%20tela%202024-03-23%20133302.png)
 
 ### Problema 2
 
-![Problema 2](/OAT_1/imgs/Captura%20de%20tela%202024-03-23%20133312.png)
+![Problema 2](https://github.com/IanAlexandrino/ia_oat_1/blob/main/imgs/Captura%20de%20tela%202024-03-23%20133312.png)
