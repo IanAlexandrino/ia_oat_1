@@ -21,18 +21,14 @@ def main():
 
     media_temperaturas = calcula_media_temperatura(lista_temperaturas)
 
-    print("Temperatura média anual: " + str(media_temperaturas))
+    print("Temperatura média anual: " + str(media_temperaturas) + "°C")
 
     print("Meses em que a temperatura ficou acima da média: ")
 
     for meses_temperatura in lista_meses_temperatura:
         for mes, temperatura in meses_temperatura.items():
             if temperatura > media_temperaturas:
-                print("Mês: " + str(mes) + ", Temperatura: " + str(temperatura))
-
-    print(lista_meses_temperatura)
-    print(lista_temperaturas)
-    print(media_temperaturas)
-
+                print("Mês: " + str(mes) + ", Temperatura: " + str(temperatura) + "°C")
+                
 if __name__ == "__main__":
     main()
